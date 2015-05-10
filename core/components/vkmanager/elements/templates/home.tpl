@@ -1,0 +1,1 @@
+<div id="vkmanager-panel-home-div"></div>
